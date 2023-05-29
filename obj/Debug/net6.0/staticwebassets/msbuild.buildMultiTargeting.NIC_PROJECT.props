@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NIC_PROJECT.props" />
+</Project>
