@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Authorization;
 
-namespace NIC_PROJECT.Controllers
+namespace NIC_PROJECT.Controllers 
 {
     [Authorize(Roles ="SuperAdmin")]
     public class AppRolesController : Controller
